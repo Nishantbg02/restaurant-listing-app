@@ -1,5 +1,5 @@
 
-# 🍽️ Namaste React - Restaurant Listing App
+#🍽️ Restaurant Listing App
 
 This is a Single Page Application (SPA) built with **React** to display restaurants and their menus using mock data. Built as part of the Namaste React course.
 
