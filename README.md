@@ -1,6 +1,8 @@
 # 🍽️ Restaurant Listing App
 
-This is a Single Page Application (SPA) built with **React** to showcase restaurants and their menus using mock data.  
+**Live Demo:** [Click Here](https://restaurant-listing-nishant.netlify.app)
+
+This is a Single Page Application (SPA) built with React to showcase restaurants and their menus using mock data.  
 The app demonstrates **dynamic routing, reusable components, and state management** for a simple restaurant discovery experience.
 
 ---
@@ -11,23 +13,29 @@ The app demonstrates **dynamic routing, reusable components, and state managemen
 - ✅ 18 Mock Restaurants with Menus  
 - ✅ Functional Components with Hooks  
 - ✅ Bundled with Parcel  
-- ✅ Responsive Layout
+- ✅ Responsive Layout  
 
 ---
 
-## 🛠️ Tech Stack
-- **React 18**
-- **React Router**
-- **Parcel Bundler**
-- **CSS3**
+## 🚀 Tech Stack
+- React (SPA)  
+- React Router  
+- Parcel Bundler  
+- CSS (Responsive Design)  
+- Mock Data for API Simulation
 
 ---
 
-## 🚀 Getting Started
-
-Clone the repository:
+## 📂 How to Run Locally
 ```bash
+# Clone the repo
 git clone https://github.com/Nishantbg02/restaurant-listing-app.git
+
+# Navigate to project
 cd restaurant-listing-app
+
+# Install dependencies
 npm install
+
+# Run development server
 npm start
